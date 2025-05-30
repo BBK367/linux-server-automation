@@ -7,7 +7,7 @@ Ce projet automatise la gestion d'un serveur Linux avec des scripts qui effectue
 
 Les alertes sont envoyées par email si un seuil critique est atteint.
 
-## Installation et exécution
+#Installation et exécution
 
 1. Cloner ce projet.
 2. Rendre les scripts exécutables : `chmod +x scripts/*.sh`.
